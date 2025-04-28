@@ -1,0 +1,36 @@
+[
+    {
+        "nombre": "Brian Suarez",
+        "correo": "briansuarez@gmail.com",
+        "usuario": "briansuarez",
+        "contraseña": "1234",
+        "recetas": [
+            {
+                "nombre": "",
+                "ingredietes": [],
+                "instrucciones":"",
+                "tiempoPreparacion": "",
+                "porciones": "",
+                "categoria": "",
+                "dificultad": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Brian Suarez",
+        "correo": "briansuarez@gmail.com",
+        "usuario": "briansuarez",
+        "contraseña": "1234",
+        "recetas": [
+            {
+                "nombre": "",
+                "ingredietes": [],
+                "instrucciones":"",
+                "tiempoPreparacion": "",
+                "porciones": "",
+                "categoria": "",
+                "dificultad": ""
+            }
+        ]
+    }
+]   

@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+  scroll-behavior: smooth;
+}
+body {
+  display: flex; 
+  flex-direction: column;
+  overflow-x: hidden;
+}
+.header{
+  width: 100%;
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+  padding: 0.5rem;
+  background: #000000;
+}
+.div__contenedor{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+.ul__opciones{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7rem;
+}
+.ul__opciones li{
+  list-style: none;
+}
+.ul__opciones li a{
+  letter-spacing: 5px;
+  font-size: 1rem;
+  text-decoration: none;
+}
