@@ -1,4 +1,4 @@
-# Examen JavaScript - Registro y gestion de recetas
+# Examen JavaScript - Registro y gestion de recetas SuarezBrian
 
 ¡Bienvenido registro y gestion de recetas en el cual se busca el manejo ordenado de recetas de cocina, guardado de las mismas y filtrado para futuras ocaciones todo esto usando un perfil de usuario.
 
